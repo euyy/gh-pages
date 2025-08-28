@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Test</title>
+    <link href="https://euyy.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://euyy.github.io/gh-pages" />
+    <updated>2025-08-28T13:29:11+08:00</updated>
+    <author>
+        <name>YoungMore</name>
+    </author>
+    <id>https://euyy.github.io/gh-pages</id>
+
+    <entry>
+        <title>first post</title>
+        <author>
+            <name>YoungMore</name>
+        </author>
+        <link href="https://euyy.github.io/gh-pages/first-post.html"/>
+        <id>https://euyy.github.io/gh-pages/first-post.html</id>
+
+        <updated>2025-08-28T13:27:45+08:00</updated>
+            <summary>
+                <![CDATA[
+                    first post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> first post </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
