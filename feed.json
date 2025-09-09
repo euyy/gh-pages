@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Test",
+    "title": "逃生，从零开始",
     "description": "",
     "home_page_url": "https://euyy.github.io/gh-pages",
     "feed_url": "https://euyy.github.io/gh-pages/feed.json",
@@ -9,19 +9,5 @@
         "name": "YoungMore"
     },
     "items": [
-        {
-            "id": "https://euyy.github.io/gh-pages/first-post.html",
-            "url": "https://euyy.github.io/gh-pages/first-post.html",
-            "title": "first post",
-            "summary": "first post",
-            "content_html": "<p> first post </p>",
-            "author": {
-                "name": "YoungMore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-28T13:27:45+08:00",
-            "date_modified": "2025-08-28T13:29:11+08:00"
-        }
     ]
 }
